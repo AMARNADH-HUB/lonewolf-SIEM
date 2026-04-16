@@ -1,4 +1,5 @@
 # Lonewolf SIEM
+<img width="1408" height="768" alt="lonewolf-siem" src="https://github.com/user-attachments/assets/e2da164c-a2cb-41f9-acb5-8a6fe0357737" />
 
 Lonewolf SIEM is a **free and open-source Linux SIEM** designed for simple deployment and real operational visibility.
 
