@@ -261,9 +261,7 @@ python -m pytest server/tests -q
 
 ---
 
-## 11) License
-
-MIT License
+## 11) MIT License
 
 Copyright (c) 2026 Amarnadh S (DEV)
 
